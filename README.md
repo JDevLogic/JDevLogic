@@ -1,6 +1,6 @@
 Aquí encontrarás información sobre mí y mis proyectos.
 
-# 👋 ¡Buenas  Soy Jonathan  
+# 👋 ¡Buenas  Soy Jonathan ! 
 
 💻 Me apasiona la tecnología y el desarrollo backend.  
 🔹 Explorando el mundo de la programación con **Python y Git**.  
