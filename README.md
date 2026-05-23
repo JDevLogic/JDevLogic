@@ -5,6 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Estudiante+de+Inform%C3%A1tica;Backend+Developer+en+formaci%C3%B3n;Python+%7C+FastAPI+%7C+Flutter;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+[![Visitas](https://komarev.com/ghpvc/?username=JDevLogic&color=3776AB&style=flat&label=Visitas+al+perfil)](https://github.com/JDevLogic)
+
 </div>
 
 ---
@@ -57,6 +59,22 @@
 
 </div>
 
+<div align="center">
+
+![Snake](https://raw.githubusercontent.com/JDevLogic/JDevLogic/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🏆 Trofeos
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=JDevLogic&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 ---
 
 ## 🗂️ Proyectos destacados
@@ -102,6 +120,8 @@
 ---
 
 <div align="center">
+
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ⭐ Si algún proyecto te es útil, ¡no dudes en dejar una estrella!
 
