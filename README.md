@@ -12,14 +12,16 @@
 ## 🙋 Sobre mí
 
 - 🎓 Estudiante de **Informática**, aprendiendo cada día
-- 🔭 Actualmente trabajando en proyectos **full-stack** con FastAPI y Flutter
+- 🔭 Actualmente construyendo proyectos **full-stack** con FastAPI y Flutter
 - 🌱 Profundizando en **desarrollo backend**, bases de datos y contenedores
 - 💬 Pregúntame sobre **Python, FastAPI o Git**
-- 📫 Contacto: **jonathanruales03@gmail.com**
+- 📫 **jonathanruales03@gmail.com**
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -30,9 +32,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+</div>
+
 ---
 
-## 📊 Mis estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
@@ -51,15 +55,43 @@
 
 ## 🗂️ Proyectos destacados
 
-<div align="center">
-
-[![anistream-demo](https://github-readme-stats.vercel.app/api/pin/?username=JDevLogic&repo=anistream-demo&theme=tokyonight)](https://github.com/JDevLogic/anistream-demo)
-[![estudios-informatica](https://github-readme-stats.vercel.app/api/pin/?username=JDevLogic&repo=estudios-informatica&theme=tokyonight)](https://github.com/JDevLogic/estudios-informatica)
-
-[![SMR-Python](https://github-readme-stats.vercel.app/api/pin/?username=JDevLogic&repo=SMR-Python&theme=tokyonight)](https://github.com/JDevLogic/SMR-Python)
-[![gestor-tareas-python](https://github-readme-stats.vercel.app/api/pin/?username=JDevLogic&repo=gestor-tareas-python&theme=tokyonight)](https://github.com/JDevLogic/gestor-tareas-python)
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎌 <a href="https://github.com/JDevLogic/anistream-demo">anistream-demo</a></h3>
+      <p>Demo educativa full-stack de una plataforma de streaming de anime con autenticación, telemetría y datos mock seguros.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://github.com/JDevLogic/estudios-informatica">estudios-informatica</a></h3>
+      <p>Material de estudio personal para programación, ingeniería informática y desarrollo backend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐍 <a href="https://github.com/JDevLogic/SMR-Python">SMR-Python</a></h3>
+      <p>Ejercicios y apuntes de Python del módulo SMR – Sistemas Operativos.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✅ <a href="https://github.com/JDevLogic/gestor-tareas-python">gestor-tareas-python</a></h3>
+      <p>Gestor de tareas en Python: añadir, visualizar y marcar tareas como completadas desde la terminal.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
