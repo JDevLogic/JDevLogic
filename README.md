@@ -45,14 +45,15 @@ Soy estudiante de **Informática** y estoy enfocando mi aprendizaje en el desarr
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎌 <a href="https://github.com/JDevLogic/anistream-demo">anistream-demo</a></h3>
-      <p>Demo educativa full-stack de una plataforma de streaming de anime. Incluye backend con FastAPI, app Flutter, autenticación, telemetría, Redis, Docker y datos mock seguros.</p>
-      <p><strong>Enfoque:</strong> arquitectura full-stack, APIs REST, contenedores y comunicación entre servicios.</p>
+      <h3>📺 <a href="https://github.com/JDevLogic/streamhub-demo">streamhub-demo</a></h3>
+      <p>Demo educativa full-stack: backend FastAPI con caché Redis, SQLite, autenticación, telemetría y cliente Flutter offline-first. Desplegable con Docker + Nginx.</p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
