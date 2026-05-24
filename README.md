@@ -1,7 +1,7 @@
 <div align="center">
 
 # ¡Hola, soy Jonathan! 👋
-### Desarrollador backend en formación · Python · FastAPI · Docker
+### También conocido como **JDevLogic** · Desarrollador backend en formación
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=520&lines=Estudiante+de+Inform%C3%A1tica;Construyendo+APIs+con+Python+y+FastAPI;Backend+%7C+Docker+%7C+Bases+de+datos;Aprendiendo+y+creando+proyectos+reales)](https://git.io/typing-svg)
 
@@ -98,6 +98,12 @@ Soy estudiante de **Informática** y estoy enfocando mi aprendizaje en el desarr
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JDevLogic&theme=tokyo-night&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![Snake](https://raw.githubusercontent.com/JDevLogic/JDevLogic/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
